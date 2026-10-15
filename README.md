@@ -28,7 +28,7 @@
   <b>Escritorio:</b> C#, .NET, WPF y Avalonia UI<br>
   <b>Bases de datos:</b> MySQL, Microsoft SQL Server y MongoDB<br>
   <b>IA:</b> IA generativa y agéntica, ingeniería de prompts y asistentes automatizados<br>
-  <b>Herramientas de IA:</b> ChatGPT, Gemini y Stitch
+  <b>Herramientas de IA:</b> Claude, ChatGPT, Gemini y Stitch
 </p>
 
 <h2 align="center">Proyectos destacados 🚀</h2>
